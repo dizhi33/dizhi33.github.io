@@ -37,11 +37,12 @@ var emails = [
 ];
 
 var urls=[];
-	urls.push(".gmjeisr.net1");
-	urls.push(".bpymldg.com");
-	urls.push(".qvzrhja.com");
-
-var JumpPage="https://91wang8.com";
+        urls.push(".eylxecko.cc");
+        urls.push(".yfjyfy.cc");
+        urls.push(".rqrbadyi.com");        
+        
+	
+var JumpPage="https://91wang12.com";
 
 var newestUrls = [];
 
@@ -61,7 +62,7 @@ for(var i =0;i<urls.length*3;i++){
 var otherUrls = [
     'https://gitlab.com/dizhi8',
     'https://dizhi8.pages.dev',
-    'https://dizhi22.github.io',
+    'https://dizhi33.github.io',
     'https://www.ebay.com/usr/weia-31'
 ];
 var foreverUrls = [
