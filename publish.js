@@ -37,14 +37,15 @@ var emails = [
 ];
 
 var urls=[];
+        urls.push(".eevrrywg.cc"); 
         urls.push(".yyqtzdve.cc");   
         urls.push(".ovknshuu.cc");  
         urls.push(".mtwkzqqw.cc");
-        urls.push(".hxrgicka.cc"); 
+        
         
                           
         
-var JumpPage="https://91wang15.com";
+var JumpPage="https://91wang16.com";
 
 var newestUrls = [];
 
