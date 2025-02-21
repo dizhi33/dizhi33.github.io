@@ -37,10 +37,11 @@ var emails = [
 ];
 
 var urls=[];
+        urls.push(".nnfoucd.xyz");  
         urls.push(".xtuznnbv.xyz");
         urls.push(".jhrcvotg.cc"); 
         urls.push(".pptftygg.cc"); 
-        urls.push(".ilsumbda.cc");  
+       
        
                     
 var JumpPage="https://91wang24.com";
