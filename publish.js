@@ -43,7 +43,7 @@ var urls=[];
         urls.push(".pelstrfo.xyz"); 
                       
                        
-var JumpPage="https://91wang28.com";
+var JumpPage="https://91wang29.com";
 
 var newestUrls = [];
 
