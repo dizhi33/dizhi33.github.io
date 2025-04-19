@@ -42,7 +42,7 @@ var urls=[];
         urls.push(".vudiksjc.xyz");      
         urls.push(".mbereci.xyz");     
                                                                                         
-var JumpPage="https://91wang54.com";
+var JumpPage="https://91wang56.com";
 
 var newestUrls = [];
 
