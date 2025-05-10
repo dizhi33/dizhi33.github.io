@@ -40,9 +40,9 @@ var urls=[];
         urls.push(".nmwcauk.xyz");   
         urls.push(".iwsndnr.xyz");   
         urls.push(".eogixfo.xyz");   
-        urls.push(".yeygcuth.xyz");            
+        urls.push(".xzzukif.xyz");            
                                                                                                                                                       
-var JumpPage="https://91wang73.com";
+var JumpPage="https://91wang74.com";
 
 var newestUrls = [];
 
