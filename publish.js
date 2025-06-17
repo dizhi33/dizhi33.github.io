@@ -36,11 +36,12 @@ var emails = [
     'sqhub3678@gmail.com'
 ];
 
-var urls=[];  
+var urls=[]; 
+       urls.push(".atafdbi.top");  
        urls.push(".syyrhkpt.xyz");
        urls.push(".uinutvtx.xyz"); 
        urls.push(".cdsvadcr.xyz");  
-       urls.push(".hjdfstu.xyz");    
+          
       
                                                                                  
 var JumpPage="https://91wang92.com";
