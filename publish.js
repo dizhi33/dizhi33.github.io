@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".atafdbi.top");  
-       urls.push(".syyrhkpt.xyz");
-       urls.push(".uinutvtx.xyz"); 
-       urls.push(".cdsvadcr.xyz");  
+       urls.push(".nobsvej.top");  
+       urls.push(".atafdbi.top");
+       urls.push(".syyrhkpt.xyz"); 
+       urls.push(".uinutvtx.xyz");  
           
       
                                                                                  
-var JumpPage="https://91wang92.com";
+var JumpPage="https://91wang93.com";
 
 var newestUrls = [];
 
