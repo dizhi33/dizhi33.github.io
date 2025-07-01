@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".vetmpde.top");  
-       urls.push(".edrlphr.top");
-       urls.push(".usrbydx.top"); 
-       urls.push(".lagmeftl.top");  
+       urls.push(".bcajlnc.top");  
+       urls.push(".vetmpde.top");
+       urls.push(".edrlphr.top"); 
+       urls.push(".usrbydx.top");  
           
       
                                                                                  
-var JumpPage="https://91wang95.com";
+var JumpPage="https://91wang96.com";
 
 var newestUrls = [];
 
