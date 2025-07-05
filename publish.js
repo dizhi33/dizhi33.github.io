@@ -44,7 +44,7 @@ var urls=[];
           
       
                                                                                  
-var JumpPage="https://91wang97.com";
+var JumpPage="https://91wang98.com";
 
 var newestUrls = [];
 
