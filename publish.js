@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".mckgbpih.cc");  
-       urls.push(".zffodzgw.com");
-       urls.push(".nlxkflh.top"); 
-       urls.push(".vetmpde.top");  
+       urls.push(".huaftfw.top");  
+       urls.push(".mckgbpih.cc");
+       urls.push(".zffodzgw.com"); 
+       urls.push(".nlxkflh.top");  
           
       
                                                                                  
