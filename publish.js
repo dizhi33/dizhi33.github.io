@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[]; 
+       urls.push(".jsanbyy.top");  
+       urls.push(".eaggdbhz.club");
+       urls.push(".zeiwnefh.top"); 
        urls.push(".nvrlpde.com");  
-       urls.push(".eewvrdl.top");
-       urls.push(".tprchugz.cc"); 
-       urls.push(".qvhdbks.cc");  
           
       
                                                                                  
