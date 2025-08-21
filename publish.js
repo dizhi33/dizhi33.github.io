@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".llabifdz.cc");  
-       urls.push(".dvuxmkb.com");
-       urls.push(".fpxwaid.com"); 
-       urls.push(".yuzwkza.cc");  
+       urls.push(".tlganjr.com");  
+       urls.push(".llabifdz.cc");
+       urls.push(".dvuxmkb.com"); 
+       urls.push(".fpxwaid.com");  
           
       
                                                                                  
@@ -166,6 +166,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
