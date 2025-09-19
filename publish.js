@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".xqbzwriu.com");  
-       urls.push(".rnbpxyqo.xyz");
-       urls.push(".lmhsovyx.cc"); 
-       urls.push(".jvrloqoa.xyz");  
+       urls.push(".dzdkioke.xyz");  
+       urls.push(".xqbzwriu.comz");
+       urls.push(".rnbpxyqo.xyz"); 
+       urls.push(".lmhsovyx.cc");  
           
       
                                                                                  
-var JumpPage="https://91wang108.com";
+var JumpPage="https://91wang109.com";
 
 var newestUrls = [];
 
@@ -166,6 +166,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
