@@ -44,7 +44,7 @@ var urls=[];
           
       
                                                                                  
-var JumpPage="https://91porna10.com";
+var JumpPage="https://91porna11.com";
 
 var newestUrls = [];
 
@@ -166,6 +166,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
