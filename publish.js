@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".yvtudph.xyz");  
-       urls.push(".tyvwoll.xyz");
-       urls.push(".robtfnzh.cc"); 
-       urls.push(".jasjvazj.cc");  
+       urls.push(".rdsrtkmi.com");  
+       urls.push(".hlttkfcc.xyz");
+       urls.push(".yvtudph.xyz"); 
+       urls.push(".tyvwoll.xyz");  
           
       
                                                                                  
@@ -166,6 +166,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
