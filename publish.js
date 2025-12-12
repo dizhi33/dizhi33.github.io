@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".grdfyfj.cc");  
-       urls.push(".wvzzbuh.cc");
-       urls.push(".ttejvcjb.com"); 
-       urls.push(".korxtdyq.xyz");  
+       urls.push(".tyjwlurx.cc");  
+       urls.push(".homzpqoc.xyz");
+       urls.push(".esvovdnp.cc"); 
+       urls.push(".jpmohvz.com");  
           
       
                                                                                  
-var JumpPage="https://91porna14.com";
+var JumpPage="https://91porna16.com";
 
 var newestUrls = [];
 
@@ -166,6 +166,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
