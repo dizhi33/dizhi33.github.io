@@ -38,9 +38,9 @@ var emails = [
 
 var urls=[]; 
        urls.push(".bhcsgtu.xyz");  
-       urls.push(".zoozxysl.com");
-       urls.push(".rtsecaqk.xyz"); 
-       urls.push(".vcpxwwp.cc");  
+       urls.push(".cybilsge.cc");
+       urls.push(".bhcsgtu.xyz"); 
+       urls.push(".zoozxysl.com");  
           
       
                                                                                  
@@ -166,6 +166,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
