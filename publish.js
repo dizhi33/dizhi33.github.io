@@ -39,7 +39,7 @@ var emails = [
 var urls=[]; 
        urls.push(".tqlaeon.com");  
        urls.push(".flasrfl.cc");
-       urls.push(".potlwfl.com"); 
+       urls.push(".xmgammg.xyz"); 
        urls.push(".zfxbgjsk.xyz");  
           
       
@@ -166,6 +166,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
