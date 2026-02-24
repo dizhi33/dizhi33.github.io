@@ -40,7 +40,7 @@ var urls=[];
        urls.push(".mkonscpc.xyz");  
        urls.push(".dmslhfkp.xyz");
        urls.push(".nkhxlnzj.com"); 
-       urls.push(".vnxezpe.com");  
+       urls.push(".xrkbxsq.cc");  
           
       
                                                                                  
@@ -166,6 +166,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
