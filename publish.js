@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".mkonscpc.xyz");  
+       urls.push(".gdnluzr.cc");  
        urls.push(".dmslhfkp.xyz");
        urls.push(".nkhxlnzj.com"); 
        urls.push(".xrkbxsq.cc");  
           
       
                                                                                  
-var JumpPage="https://91porna36.com";
+var JumpPage="https://91porna37.com";
 
 var newestUrls = [];
 
@@ -166,6 +166,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
