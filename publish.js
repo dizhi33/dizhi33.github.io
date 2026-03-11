@@ -39,12 +39,12 @@ var emails = [
 var urls=[]; 
        urls.push(".xcktsph.com");  
        urls.push(".mlnuvrdd.cc");
-       urls.push(".tbmtwyb.xyz"); 
-       urls.push(".lhhgism.xyz");  
+       urls.push(".nwihmowp.cc"); 
+       urls.push(".ypqradq.cc");  
           
       
                                                                                  
-var JumpPage="https://91porna40.com";
+var JumpPage="https://ytsoiub.cc";
 
 var newestUrls = [];
 
@@ -166,6 +166,7 @@ window.onload = function () {
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
 }
+
 
 
 
