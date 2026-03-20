@@ -40,7 +40,7 @@ var urls=[];
        urls.push(".jfwuaml.cc");  
        urls.push(".zvjkqcl.cc");
        urls.push(".osxunnk.com"); 
-       urls.push(".nfwlaow.cc");  
+       urls.push(".eibvths.cc");  
           
       
                                                                                  
