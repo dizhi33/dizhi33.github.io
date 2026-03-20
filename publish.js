@@ -39,12 +39,12 @@ var emails = [
 var urls=[]; 
        urls.push(".jfwuaml.cc");  
        urls.push(".zvjkqcl.cc");
-       urls.push(".xtwaqekx.cc"); 
+       urls.push(".osxunnk.com"); 
        urls.push(".nfwlaow.cc");  
           
       
                                                                                  
-var JumpPage="https://91porna41.com";
+var JumpPage="https://91porna42.com";
 
 var newestUrls = [];
 
