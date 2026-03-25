@@ -38,13 +38,13 @@ var emails = [
 
 var urls=[]; 
        urls.push(".quxkinyv.cc");  
-       urls.push(".kxjgpsad.cc");
-       urls.push(".adqauun.com"); 
-       urls.push(".mmssbrb.com");  
+       urls.push(".slfxjhpe.cc");
+       urls.push(".zhjqfloe.cc"); 
+       urls.push(".armvaqt.cc");  
           
       
                                                                                  
-var JumpPage="https://91porna42.com";
+var JumpPage="https://91porna43.com";
 
 var newestUrls = [];
 
