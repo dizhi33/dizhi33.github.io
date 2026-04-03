@@ -40,11 +40,11 @@ var urls=[];
        urls.push(".olihmerb.cc");  
        urls.push(".lwjjtvp.cc");
        urls.push(".aimptlbf.com"); 
-       urls.push(".qhtxaxfc.com");  
+       urls.push(".qvbmrihg.com");  
           
       
                                                                                  
-var JumpPage="https://91porna45.com";
+var JumpPage="https://91porna46.com";
 
 var newestUrls = [];
 
