@@ -44,7 +44,7 @@ var urls=[];
           
       
                                                                                  
-var JumpPage="https://91porna55.com";
+var JumpPage="https://91porna56.com";
 
 var newestUrls = [];
 
