@@ -38,8 +38,8 @@ var emails = [
 
 var urls=[]; 
        urls.push(".cqfljypc.com");  
-       urls.push(".aluornbky.cc");
-       urls.push(".xcbfwrueu.cc"); 
+       urls.push(".nluvresyb.cc");
+       urls.push(".rlejlkya.com"); 
        urls.push(".pkwkehjy.cc");  
           
       
