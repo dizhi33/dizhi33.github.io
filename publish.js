@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".wjznybksg.cc");  
+       urls.push(".xgsmppluu.cc");  
        urls.push(".nybrndsb.cc");
        urls.push(".prmfnfgvm.cc"); 
        urls.push(".pkwkehjy.cc");  
