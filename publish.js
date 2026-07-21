@@ -74,7 +74,8 @@ var foreverUrls = [
     'https://91porn.gold',
 	'https://91porn.fun',
     'https://91pornvideo.com',
-    'https://91pornforum.com',JumpPage,
+    'https://91pornforum.com',
+	JumpPage,
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
