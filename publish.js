@@ -38,7 +38,7 @@ var emails = [
 
 var urls=[]; 
        urls.push(".ubretkex.cc");  
-       urls.push(".jhvyvzld.cc");
+       urls.push(".njdhyteh.com");
        urls.push(".prmfnfgvm.cc"); 
        urls.push(".pkwkehjy.cc");  
           
@@ -70,8 +70,11 @@ var otherUrls = [
 var foreverUrls = [
 	'https://91porna.com',
 	JumpPage,
-	'https://91porn.fun',
-	'https://91pornvideo.com',
+	'https://91porna.io',
+	'https://91porna.tv',
+    'https://91porn.gold'
+	'https://91porn.fun'
+    'https://91pornvideo.com'
     'https://91pornforum.com'
 ];
 var notices = [
