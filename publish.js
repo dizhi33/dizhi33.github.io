@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[]; 
-       urls.push(".bxdprkca.cc");  
-       urls.push(".bzbypgkd.cc");
+       urls.push(".touqvzrml.cc");  
+       urls.push(".uceuigypx.cc");
        urls.push(".hxgcrmhk.cc"); 
        urls.push(".gzfvswds.cc");  
           
       
                                                                                  
-var JumpPage="https://91porna88.com";
+var JumpPage="https://91porna89.com";
 
 var newestUrls = [];
 
