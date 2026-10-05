@@ -36,12 +36,12 @@ var emails = [
     'sqhub3678@gmail.com'
 ];
 
-var urls=[]; 
-       urls.push(".touqvzrml.cc");  
-       urls.push(".uceuigypx.cc");
-       urls.push(".hxgcrmhk.cc"); 
-       urls.push(".gzfvswds.cc");  
-          
+var urls=[
+  'touqvzrml.cc',
+  'uceuigypx.cc',
+  'hxgcrmhk.cc',
+  'gzfvswds.cc',
+];          
       
                                                                                  
 var JumpPage="https://91porna89.com";
