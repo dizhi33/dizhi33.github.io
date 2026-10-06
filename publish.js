@@ -37,10 +37,10 @@ var emails = [
 ];
 
 var urls=[
-	'.touqvzrml.cc',
-	'.uceuigypx.cc',
-	'.hxgcrmhk.cc',
-	'.gzfvswds.cc',
+	'touqvzrml.cc',
+	'uceuigypx.cc',
+	'hxgcrmhk.cc',
+	'gzfvswds.cc',
 ];          
       
                                                                                  
@@ -50,7 +50,7 @@ var newestUrls = [];
 
 
 for(var i =0;i<urls.length*3;i++){
-    newestUrls.push( 'https://' + getRandomSubdomain() +urls[randomNum(0,urls.length-1)]);
+    newestUrls.push( 'https://' + getRandomSubdomain() +'.'+urls[randomNum(0,urls.length-1)]);
 }
 
 // var newestUrls = [
