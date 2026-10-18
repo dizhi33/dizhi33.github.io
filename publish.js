@@ -37,8 +37,8 @@ var emails = [
 ];
 
 var urls=[
-	'sb95o08n.cc',
-	'hj15u64z.cc',
+	'mu28h31q.cc',
+	'jr95e08v.cc',
 	'ox51k64p.cc',
 	'rc40p53k.cc',
 ];          
