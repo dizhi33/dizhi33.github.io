@@ -37,14 +37,14 @@ var emails = [
 ];
 
 var urls=[
-	'9lomy0ix.cc',
+	'rvly46hj.cc',
+	'sk7pmk03r.cc',
+	'jzbqz0hk.cc',
 	'3oezdnng.cc',
-	'2ucgzthle.cc',
-	'vb726mma.cc',
 ];          
       
                                                                                  
-var JumpPage="https://91porna92.com";
+var JumpPage="https://91porna93.com";
 
 var newestUrls = [];
 
