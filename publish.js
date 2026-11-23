@@ -33,7 +33,9 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'sqhub3678@gmail.com'
+    'sqhub3678@gmail.com',
+	'dizhi888@qq.com',
+    'dizhi888@outlook.com'
 ];
 
 var urls=[
