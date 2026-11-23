@@ -67,7 +67,7 @@ var otherUrls = [
     'https://gitlab.com/dizhi8',
     'https://dizhi8.pages.dev',
     'https://dizhi33.github.io',
-    'https://dizhi8.netlify.app'
+    'https://dizhi9193.github.io'
 ];
 var foreverUrls = [
 	'https://91porna.com',
