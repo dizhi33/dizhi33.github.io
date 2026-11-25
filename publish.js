@@ -39,10 +39,10 @@ var emails = [
 ];
 
 var urls=[
-	'qijmzxci.cc',
+	'goabqtoph.cc',
+	'famxdxkid.cc',
+	'xroslizr.cc',
 	'rdmvjmnxo.cc',
-	'rysvqjuyd.cc',
-	'shznkkqki.cc',
 ];          
       
                                                                                  
