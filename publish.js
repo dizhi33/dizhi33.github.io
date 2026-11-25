@@ -67,7 +67,9 @@ var otherUrls = [
     'https://gitlab.com/dizhi8',
     'https://dizhi8.pages.dev',
     'https://dizhi33.github.io',
-    'https://dizhi9193.github.io'
+    'https://dizhi9193.github.io',
+	'd1z1nt46bxass1.cloudfront.net',
+    'd1ekfsvegazi5x.cloudfront.net'
 ];
 var foreverUrls = [
 	'https://91porna.com',
