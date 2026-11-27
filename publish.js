@@ -39,14 +39,14 @@ var emails = [
 ];
 
 var urls=[
+	'pftekwwz.cc',
+	'xxiyiglkv.cc',
 	'gztbxpuxw.cc',
 	'cxgjbfxdx.cc',
-	'xroslizr.cc',
-	'itagefme.cc',
 ];          
       
                                                                                  
-var JumpPage="https://txhhhgrur.cc";
+var JumpPage="https://iyfuojgn.cc";
 
 var newestUrls = [];
 
